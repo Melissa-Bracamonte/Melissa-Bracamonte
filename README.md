@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola mundo! 👋 ¿Qué tal?, Soy Meli</h1>
-<h3 align="center">Soy desarrolladora web front-end y estoy aprendiendo React 👩🏻‍💻 con background on marketing and administración de empresas</h3>
+<h3 align="center">Soy desarrolladora web front-end y estoy aprendiendo React 👩🏻‍💻 con background en marketing y administración de empresas</h3>
 
 - ❤️‍🔥 Me encanta **asumir nuevos desafíos que tengan un impacto en la vida cotidiana de las personas**
 
@@ -13,11 +13,9 @@
 
 - 📫 Aquí me puedes contactar: **melissabracamonte30@gmail.com**
 
-- 🤗 Te dejo mi Linkedin por si quieres conectar conmigo [https://www.linkedin.com/in/bracamontemelissa/](https://www.linkedin.com/in/bracamontemelissa/)
-
 - 👩🏻‍🤝‍👩🏾🛫 Amo **Amo conocer nuevas personas y hacer nuevos amigos y me encanta conocer lugares nuevos**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤗 Te dejo mi Linkedin por si quieres conectar conmigo</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bracamontemelissa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melissa bracamonte" height="30" width="40" /></a>
 </p>
