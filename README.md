@@ -2,7 +2,7 @@
 <h3 align="center">Soy desarrolladora web front-end y estoy aprendiendo React 👩🏻‍💻</h3>
 <p>Me apasiona asumir nuevos desafíos que tengan un impacto en la vida cotidiana de las personas. Estos últimos años he experimentado de primera mano como la integración de la tecnología puede mejorar la forma en cómo conectamos con personas.
 
-Esos años me enseñaron a innovar partiendo de la idea de que la única constante es el cambio y a tener una visión sistémica de los problemas, esas premisas son las que me caracterizan cómo Front-End developer y me permiten plantear soluciones analizando y manipulando datos desde el código, para dar vida a interfaces que conecten con personas.</p>
+La innovación y una visión sistémica de los problemas, son las premisas que me caracterizan cómo Front-End developer y me permiten plantear soluciones analizando y manipulando datos desde el código, para dar vida a interfaces que conecten con personas.</p>
 
 <p>Sobre mi...</p>
 
