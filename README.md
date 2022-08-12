@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola mundo! 👋 ¿Qué tal?, Soy Meli</h1>
-<h3 align="center">Soy desarrolladora web front-end y estoy aprendiendo React 👩🏻‍💻</h3>
+<h3 align="center">Soy desarrolladora web front-end y React 👩🏻‍💻</h3>
 <p>Me apasiona asumir nuevos desafíos que tengan un impacto en la vida cotidiana de las personas. Estos últimos años he experimentado de primera mano como la integración de la tecnología puede mejorar la forma en cómo conectamos con personas.
 
 La innovación y una visión sistémica de los problemas, son las premisas que me caracterizan cómo Front-End developer y me permiten plantear soluciones analizando y manipulando datos desde el código, para dar vida a interfaces que conecten con personas.</p>
